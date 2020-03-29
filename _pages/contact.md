@@ -1,21 +1,30 @@
 ---
 layout: single
-title: Contact
+title: Contact Me
 author_profile: true
-permalink: /about/
+permalink: /contact/
 ---
+<!-- modify this form HTML and place wherever you want your form -->
 
-* Department of Cell and Molecular Biology <br>
-  Biomedicum Centrum, Uppsala Universitet <br> 
-  Uppsala, Sweden <br> 
-  Email: sarbashis.das@icm.uu.se <br>
-  
-  AND
-  
-* SciLifeLab <br> 
-  Karolinska Institutet <br> 
-  Stockholm <br> 
-  sarbashis.das@scilifelab.se
+<form
+  action="https://formspree.io/myypqoyl"
+  method="POST"
+>
+  <label>
+    Name:
+    <input type="text" name="_name">
+  </label>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
-   
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>   
     
