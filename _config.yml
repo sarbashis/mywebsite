@@ -1,3 +1,12 @@
+# @Author: sarbashis
+# @Date:   2018-11-28T13:37:01+01:00
+# @Email:  dsarbashis@gmail.com
+# @Project: HeartFailurePipeline
+# @Last modified by:   sarbashis
+# @Last modified time: 2019-03-11T16:12:05+01:00
+
+
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -12,11 +21,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarbashis Das, Ph.D."
+title                    : "Sarbashis Das, PhD."
 title_separator          : "-"
 name                     : "Sarbashis"
 description              : "My Personal Website."
@@ -27,9 +36,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "sarbashis" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -234,6 +243,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-scholar
+  - jekyll-include-cache
 
 
 
@@ -246,6 +256,7 @@ scholar:
   bibliograpy:  references.bib
   repository: ./Publications
   #sort_by: year
+
   #### sort by year
   group_by: year, type
   sort_by: year
@@ -257,6 +268,7 @@ scholar:
   #group_by: type, year
   #group_order: accending,descending
   #order: descending
+
   #bibliography_template: "{{ reference | replace_first: 'Das, S.', '<b>Das, S.</b>' }}"
   bibliography_template: bib
   type_order: [article,unpublished,techreport,phdthesis, mastersthesis]
@@ -349,3 +361,15 @@ defaults:
       layout: single
       author_profile: false
       share:
+
+  # _drafts
+  - scope:
+      path: "_drafts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true # true
+      share: true
+      related: true
