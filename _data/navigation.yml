@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Home"
-    url: /Home/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /Publications/
   - title: "CV"
     url: /CV/
   - title: "Blog Posts"
     url: /year-archive/
-  - title: "About Me"
-    url: /about/
+  - title: "Contact Me"
+    url: /contact/
