@@ -2,7 +2,7 @@
 layout: single
 title: Contact
 author_profile: true
-permalink: /Contact/
+permalink: /about/
 ---
 
 * Department of Cell and Molecular Biology <br>
