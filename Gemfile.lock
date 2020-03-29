@@ -67,6 +67,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
+    jekyll-include-cache (0.2.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -126,6 +128,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+  jekyll-include-cache
   jekyll-scholar
   minimal-mistakes-jekyll!
   rake (~> 10.0)
