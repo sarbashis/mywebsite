@@ -1,6 +1,9 @@
 ---
 layout: single
 author_profile: true
+#header:
+  #image: /assets/images/header-image.jpg
+  #image_description: "A description of the image"
 ---
 Currently, I am working as a Data Scientist at *Global Aritificial Intelligence Accelator (GAIA)*, [Ericsson](https://www.ericsson.com/en). I have extensive experience focused on data analysis and modeling using advance Machine Learning algorithms for high-dimension complex data in the field of Biology.
 
