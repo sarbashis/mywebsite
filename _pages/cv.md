@@ -7,7 +7,7 @@ permalink: /CV/
 <a href="/CV/Sarbashis_cv_DataScientist.pdf" target="_blank" class="btn btn--success">Download CV </a>{: .align-right}
 
 ## Summary:
-Experienced senior Researcher with a demonstrated history of leading diverse projects of various types. Skilled in Python, R, Data Analysis, and Machine Learning. Strong research professional with a Doctor of Philosophy (Ph.D.) focused in Computational Biology.
+Experienced Data Scientist with a demonstrated history of leading diverse projects in the field of Data Science. Skilled in Python, R, Data Analysis, and Machine Learning. Strong research professional with a Doctor of Philosophy (Ph.D.) focused on Computational Biology. 
 
 ## Employment:
 * June, 2019 -- Present: __Data Scientist__<br>
