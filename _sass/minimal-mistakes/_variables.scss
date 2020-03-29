@@ -53,7 +53,7 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #fff !default;
+$background-color: #e3e7e5 !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
@@ -75,7 +75,7 @@ $yiq-contrasted-threshold: 175 !default;
 $yiq-debug: false !default;
 
 /* brands */
-$behance-color: #1769ff !default;
+$behance-color: #375fa8 !default;
 $bitbucket-color: #205081 !default;
 $dribbble-color: #ea4c89 !default;
 $facebook-color: #3b5998 !default;
