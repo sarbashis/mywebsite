@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-Currently, I am working as a Data Scientist at Global Aritificial Intelligence Accelator (GAIA) @Ericssion. I have extensive experience focused on data analysis and modeling using advance Machine Learning algorithms for high-dimension complex data in the field of Biology.
+Currently, I am working as a Data Scientist at Global Aritificial Intelligence Accelator (GAIA), [Ericsson](https://www.ericsson.com/en). I have extensive experience focused on data analysis and modeling using advance Machine Learning algorithms for high-dimension complex data in the field of Biology.
 
 The current era is for Big data analysis using advance Machine Leaning algorithms such as __Deep Learning__. I have a great interest in Machine Learning and its application.
 
