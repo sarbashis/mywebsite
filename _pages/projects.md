@@ -2,7 +2,7 @@
 layout: single
 title: 
 author_profile: true
-permalink: /research/
+permalink: /projects/
 ---
 
 My research interest broadly in the area of __Cardiac Diseases__, __Microbial Genomic__ and __Machine Learning__ with special focus on Deep Learning. 
