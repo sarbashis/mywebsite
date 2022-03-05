@@ -6,10 +6,10 @@ permalink: /CV/
 ---
 <a href="/CV/Sarbashis_cv_DataScientist.pdf" target="_blank" class="btn btn--success">Download CV </a>{: .align-right}
 
-## Summary:
+### Summary:
 Experienced Data Scientist with a demonstrated history of leading diverse projects in the field of Data Science. Skilled in Python, R, Data Analysis, and Machine Learning. Strong research professional with a Doctor of Philosophy (Ph.D.) focused on Computational Biology. 
 
-## Employment:
+### Employment:
 * June, 2019 -- Present: __Data Scientist__<br>
 Ericssion AB, Stockholm, Sweden
 
@@ -23,12 +23,12 @@ Institute of Molecular Biology, Mainz, Germany.
  Dept. of Cell and Molecular Biology, Uppsala University, Sweden
 
 
-## Education:
-* __Ph.D.(Computational Biology & Bioinformatics),
-School of Computational & Integrative Sciences,Jawaharlal Nehru University, India.__
-  - __Dissertation:__ *Comparative Analysis and Study of Mutations in Bacterial Genomes*
-  - __Supervisor:__ Prof. Alok Bhattacharya
-  - __Year:__ 2013
+### Education:
+* __Ph.D.(Computational Biology & Bioinformatics), School of Computational & Integrative Sciences,Jawaharlal Nehru University, India.__
+
+  - __Dissertation:__ *Comparative Analysis and Study of Mutations in Bacterial Genomes* 
+  -  __Supervisor:__ Prof. Alok Bhattacharya
+  -  __Year:__ 2013
 
 * __Master of Technology (M.Tech) in Computational and Systems Biology , School of Computational & Integrative Sciences,Jawaharlal Nehru University, India.__
   - __Dissertation:__ *Identification of Single Nucleotide Variations and Inversions in Genomic Sequences*
@@ -42,7 +42,7 @@ School of Computational & Integrative Sciences,Jawaharlal Nehru University, Indi
 * __Bachelor of Science (B.Sc), University of Burdwan, India.__
   - __Year:__ 2003
 
-## Certifications:
+### Certifications:
  1. __Deep Learning a 5-course specialization__ by deeplearning.ai on Coursera Certificate no: [6LZ2Q78BX8MD]( https://www.coursera.org/account/accomplishments/verify/6LZ2Q78BX8MD)
 
  2. __Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization__ specialized in Deep Learning course by deeplearning.ai. Grade Achieved: 91.6%. Certifi- cate no: [3HENCRJ76HNE](https://www.coursera.org/account/accomplishments/verify/3HENCRJ76HNE)
@@ -64,13 +64,13 @@ School of Computational & Integrative Sciences,Jawaharlal Nehru University, Indi
  Certificate no: [DRZVXZNSS2UZ]( https://www.coursera.org/account/accomplishments/verify/DRZVXZNSS2UZ)
 
 
-## Achievements
+### Achievements
 
-### Research Grant
+#### Research Grant
    *  Project grant awarded as a co-applicant. Project titled _Dynamics of gene regulatory networks in response to different stresses in Mycobacteria._ Funding Agency: FORMAS, Sweden. Year: 2017
    * Project grant awarded as a co-applicant. Project titled _Non-coding and regulatory RNAs in mycobacteria._ Funding Agency: Swedish Recearch Council (VR). Year: 2016
 
-### Fellowship
+#### Fellowship
 
 * Awarded Wennergren Postodoc fellowship for two year (2013-2015) from the Wen- nergren foundations. (Grant offered, but gracefully declined due to accepting other Postdoc position). Year: 2012
 
