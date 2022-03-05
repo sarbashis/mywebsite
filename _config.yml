@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Sarbashis Das"
   avatar           : "/assets/images/sarbasis2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist| Machine Learning | Deep Learning | Bioinformatics| Data Analyst."
+  bio              : "Project Manager & Senior Data Scientist| Machine Learning | Deep Learning | Bioinformatics| Data Analyst."
   location         : "Stockholm, Sweden"
   email            : "dsarbashis@gmail.com"
   links:
@@ -276,14 +276,6 @@ scholar:
     unpublished: Unpublished Articles
     techreport: Under Review
     mastersthesis: Master\'s Thesis
-
-
-
-
-
-
-
-
 
 
 # mimic GitHub Pages with --safe
